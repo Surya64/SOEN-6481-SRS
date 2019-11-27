@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+	.centered{
+		position: fixed;
+		top: 30%;
+		left: 40%;
+	}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+</style>
+</head>
+
+
+<body>
+<div align="center" class="centered">
+
+
+	<strong><label>Fare Type : </label>
+</strong>
+    <label>IGO 2-trip</label>  <br><br>
+
+    <strong><label>Quantity : </label>
+</strong>
+    <label>1</label>  <br><br>
+    <strong><label>Total Price  : </label>
+</strong>
+    <label></label> $6.50 <br><br>
+
+
+<a href="Paymentmode.html"  class="button">Next </a>
+
+
+</div>
+
+</body>
+</html>
